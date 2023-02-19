@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+    text-align: center;
+}
+
+html {
+    background-color: rgb(47, 46, 46);
+}
+
+.image-map{
+    margin: 20px 0;
+}
+
+.description p {
+    margin: 20px 0;
+    font-family: sans-serif;
+}
